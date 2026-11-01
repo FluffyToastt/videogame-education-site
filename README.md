@@ -6,4 +6,5 @@ Teachers, parents and students in Puerto Rico
 ## Technologies 
 HTML, CSS, and JavaScript
 ## Status
-In progress: Part 1 (planning and project setup)
+In progress: Part 1 (planning and project setup.)
+In progress: Part 2 (began creating the index skeleton and substituting placeholder files with real ones.)
