@@ -6,5 +6,5 @@ Teachers, parents and students in Puerto Rico
 ## Technologies 
 HTML, CSS, and JavaScript
 ## Status
-- [x]Part 1 (planning and project setup.)
-- [ ]Part 2 (began creating the index skeleton and substituting placeholder files with real ones.)
+- [x] Part 1 (planning and project setup.)
+- [ ] Part 2 (began creating the index skeleton and substituting placeholder files with real ones.)
